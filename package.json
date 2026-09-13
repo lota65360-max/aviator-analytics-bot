@@ -1,0 +1,12 @@
+{
+  "name": "aviator-analytics-bot",
+  "version": "1.0.0",
+  "description": "Aviator statistical analytics dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
